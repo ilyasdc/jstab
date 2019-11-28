@@ -1,2 +1,2 @@
-# Cloud hosted Jupyter notebook
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ilyasdc/jupy-binder/master?filepath=linstab_modes.ipynb)
+# Notebook
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ilyasdc/jstab/master?filepath=linstab_remodel.ipynb)
