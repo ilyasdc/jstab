@@ -3,3 +3,4 @@ matplotlib
 ipywidgets>=7.5.*
 jupyter_contrib_nbextensions
 ipympl
+scipy
